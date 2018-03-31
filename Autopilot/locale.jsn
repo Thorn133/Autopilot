@@ -1,0 +1,32 @@
+{
+	"default":"en",
+	"en":{
+		"appName":"Autopilot",
+		"title":"Student Teacher System:",
+                "sound":"Sound settings:",
+		"audioTeacher":"Audio Teacher",
+		"audioStudent":"Audio Student",
+		"switch":"T/S Switch",
+		"switch1":"Security switch:",
+		"delay1":"Stick settings:",
+		"delay2":"Switch distance:",
+		"delay":"Delay 0.x S",
+		"offset":"Sticktolerance %",
+		"off":"Off",
+		"on":"On"
+	},
+	"de":{
+		"appName":"Autopilot",
+		"title":"Lehrer Schueler System:",
+                "sound":"Audio Einstellungen:",
+		"audioTeacher":"Ansage Lehrer",
+		"audioStudent":"Ansage Schueler",
+		"switch1":"Sicherheitsschalter:",
+		"switch":"L/S Schalter",
+		"delay1":"Knueppel Einstellungen:",
+		"delay":"Verzoegerung 0.x S",
+		"offset":"Knueppeltoleranz %",
+		"off":"Aus",
+		"on":"An"
+	}
+}
