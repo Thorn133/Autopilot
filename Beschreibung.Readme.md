@@ -8,4 +8,4 @@ Nähre Information siehe Link
 http://www.jetiforum.de/index.php/lua-fuer-die-dc-ds-16-24/7390-liste-ecke-fuer-lua-apps?start=6 
 
 
-![Menu-picture](https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot1.jpg) ![https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot2.jpg)
+![Menu-picture](https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot1.jpg) ![Display-picture](https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot2.jpg)
